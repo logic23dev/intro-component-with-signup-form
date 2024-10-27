@@ -111,6 +111,7 @@ body {
   font-style: italic;
   font-weight: var(--fw-500);
   text-align: right;
+  display: block;
   margin-top: -0.9375rem;
   margin-bottom: 0.9375rem;
 }
